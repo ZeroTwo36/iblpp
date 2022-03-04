@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+# Poetry Stuff
+poetry.h
+poetry-libdevel.h
+poetry.lock
+/__poetry__

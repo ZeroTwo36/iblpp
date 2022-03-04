@@ -6,10 +6,10 @@ Yes, it failed.
 ### Installation:
 
 THe easiest way to do it is using CPoetry
-
-  poetry init
-  poetry install iblpp.h
-
+```sh
+poetry init
+poetry install iblpp.h
+```
 I mean I guess you can just download iblpp.h and put it in your directory, that should work too
 ### Quickstart:
 
